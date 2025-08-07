@@ -15,10 +15,10 @@
 
 ### 🔨 Proyectos destacados
 
-- 🛒 [**Tienda Virtual Full Stack**]()  
+- 🛒 [**Tienda Virtual Full Stack**](https://github.com/lsaballosc/App-web-ASP.NET)  
   Aplicación web con panel de administración y frontend para usuarios. Hecho con **C# .NET Framework**.
 
-- ⚡ [**Predicción de consumo eléctrico con Splines**]()  
+- ⚡ [**Predicción de consumo eléctrico con Splines**](https://github.com/lsaballosc/App-Django)  
   Proyecto académico con **Django**, permite elegir tipos de interpolación (lineal, cuadrática, cúbica).
 
 ---
