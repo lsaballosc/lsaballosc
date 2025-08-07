@@ -44,7 +44,7 @@ Estoy abierto a colaborar en proyectos de:
 ### 📫 Contacto
 
 - 💼 [Portafolio Web]()  
-- ✉️ leonel.saballosc@example.com  
+- ✉️ lsaballos2002@gmail.com
 - 🔗 [LinkedIn](www.linkedin.com/in/leonel-saballos-172b17346)  
 - 🧠 Siempre listo para aprender y crear juntos.
 
