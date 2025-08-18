@@ -21,7 +21,7 @@
 - ⚡ [**Predicción de consumo eléctrico con Splines**](https://github.com/lsaballosc/App-Django)  
   Proyecto con **Django**, permite elegir tipos de interpolación (lineal, cuadrática, cúbica).
 
-- ⚡ [**Portafolio en React para mostrar proyectos, habilidades y experiencia en desarrollo web.**](https://github.com/lsaballosc/Portafolio.git)
+- 💼  [**Portafolio en React para mostrar proyectos, habilidades y experiencia en desarrollo web.**](https://github.com/lsaballosc/Portafolio.git)
   Proyecto personal para poder mostrar algunas de mis habilidades.
 ---
 
@@ -45,10 +45,11 @@ Estoy abierto a colaborar en proyectos de:
 
 ### 📫 Contacto
 
-- 💼 [Portafolio Web]()  
+- 💼 [Portafolio Web](https://portafolio-kohl-nine-39.vercel.app/)  
 - ✉️ lsaballos2002@gmail.com
 - 🔗 [LinkedIn](www.linkedin.com/in/leonel-saballos-172b17346)  
 - 🧠 Siempre listo para aprender y crear juntos.
+  
 
 ---
 
